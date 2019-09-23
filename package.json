@@ -1,0 +1,13 @@
+{
+  "name": "Notes",
+  "version": "0.0.1",
+  "description": "A CLI application for taking notes.",
+  "main": "index.js",
+  "repository": "https://github.com/soumitrachakravarti/Notes.git",
+  "author": "Soumitra Varindra Chakravarti",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^14.0.0"
+  }
+}
