@@ -1,12 +1,19 @@
 # Notes
-A CLI application for taking notes
+A CLI application for taking notes build with nodeJS
+
+# Prerequisites
+Install git, node & yarn
 
 # Usage
-git clone
+Open terminal on macOS/Linux | Open command prompt on windows
 
-yarn install
+Run the following
 
-node index.js --help
+* git clone https://github.com/soumitrachakravarti/notes.git
+
+* yarn install
+
+* node index.js --help
 
 # Example
 
@@ -21,4 +28,3 @@ node index.js remove --title="Note tilte"
 
 ## Listing all notes
 node index.js list
-
